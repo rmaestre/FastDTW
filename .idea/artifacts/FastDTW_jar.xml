@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FastDTW:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FastDTW_jar</output-path>
+    <root id="archive" name="FastDTW.jar">
+      <element id="module-output" name="FastDTW" />
+    </root>
+  </artifact>
+</component>

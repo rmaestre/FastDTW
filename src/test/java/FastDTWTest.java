@@ -1,5 +1,3 @@
-package test;
-
 import com.dtw.TimeWarpInfo;
 import com.timeseries.TimeSeries;
 import com.util.DistanceFunction;
